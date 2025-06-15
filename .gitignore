@@ -1,4 +1,5 @@
 # Ignore API key file
+config.js
 
 # Optional: macOS system files (if you're on Mac)
 .DS_Store
